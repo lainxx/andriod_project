@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54e71806-e3da-4e13-8ed1-ad57de0a3bfb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/web" beforeDir="false" afterPath="$PROJECT_DIR$/web" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/web/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/web/.idea/vcs.xml" beforeDir="false" />
@@ -88,16 +89,17 @@
       <workItem from="1573898713764" duration="123000" />
       <workItem from="1573898887153" duration="8000" />
       <workItem from="1573898904918" duration="58000" />
+      <workItem from="1573899330942" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="348000" />
+    <option name="totallyTimeSpent" value="359000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14879356" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1508043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
